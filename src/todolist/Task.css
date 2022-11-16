@@ -1,0 +1,12 @@
+.Task {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.TaskEdit {
+  display: flex;
+}
+.MarkTask {
+  text-decoration: line-through;
+}

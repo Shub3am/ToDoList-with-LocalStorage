@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+.Task-Form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.Task-Form input {
+  margin: 0 0.25em;
+  border-radius: 0.5em;
+  padding: 0.5em 2em;
+  background-color: black;
+  color: white;
+}
+#task-input {
+  width: 25em;
+}
+.Task-Form input::placeholder {
+  color: white;
+}
+.Task button {
+  margin: 0.25em;
+  border-radius: 0.5em;
+  background: black;
+  font-size: 15px;
+  color: white;
+  transition: 0.25s;
+}
+.Task button:hover {
+  scale: 1.25;
+  color: black;
+  background: white;
+}
+.MarkTask {
+  text-decoration: line-through;
+}
+.Editor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Editor input {
+  margin: 0 0.25em;
+  border-radius: 0.5em;
+  padding: 0.5em 2em;
+  background-color: black;
+  color: white;
+}
+.Editor input::placeholder {
+  color: white;
+}
+.Editor input[type="button"] {
+  margin: 0.25em;
+  border-radius: 0.5em;
+  background: black;
+  font-size: 15px;
+  color: white;
+  transition: 0.25s;
+}
+.Editor input[type="button"]:hover {
+  scale: 1.25;
+  color: black;
+  background: white;
+}
