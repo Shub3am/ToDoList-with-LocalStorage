@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shub3am/ToDoList-with-LocalStorage/static/css/main.896f1304.css",
+    "main.js": "/Shub3am/ToDoList-with-LocalStorage/static/js/main.972df413.js",
+    "static/js/787.97a945da.chunk.js": "/Shub3am/ToDoList-with-LocalStorage/static/js/787.97a945da.chunk.js",
+    "index.html": "/Shub3am/ToDoList-with-LocalStorage/index.html",
+    "main.896f1304.css.map": "/Shub3am/ToDoList-with-LocalStorage/static/css/main.896f1304.css.map",
+    "main.972df413.js.map": "/Shub3am/ToDoList-with-LocalStorage/static/js/main.972df413.js.map",
+    "787.97a945da.chunk.js.map": "/Shub3am/ToDoList-with-LocalStorage/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896f1304.css",
+    "static/js/main.972df413.js"
+  ]
+}
